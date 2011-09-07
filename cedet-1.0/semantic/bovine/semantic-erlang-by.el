@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2002, 2003 Vladimir G. Sekissov
 
-;; Author: b32804 <b32804@b32804-10>
-;; Created: 2011-08-30 14:54:52+0800
+;; Author: Ryan QIAN <b32804@rio>
+;; Created: 2011-09-07 17:40:39+0800
 ;; Keywords: syntax
 ;; X-RCS: $Id$
 

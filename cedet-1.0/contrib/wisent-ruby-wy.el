@@ -2,8 +2,8 @@
 
 ;;; Copyright (C) 2007 Daniel Debertin (debertin@gmail.com)
 
-;; Author: b32804 <b32804@b32804-10>
-;; Created: 2011-08-30 14:55:10+0800
+;; Author: Eric M. Ludlam <zappo@projectile.siege-engine.com>
+;; Created: 2010-08-22 20:55:35-0400
 ;; Keywords: syntax
 ;; X-RCS: $Id$
 

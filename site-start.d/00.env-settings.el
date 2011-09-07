@@ -80,7 +80,7 @@
 (put 'downcase-region 'disabled nil)
 (put 'LaTeX-hide-environment 'disabled nil)
 
-(server-start)
+;(server-start)
 
 ;; transparency settings
 ;; (set-frame-parameter (selected-frame) 'alpha '(active [<inactive>]))

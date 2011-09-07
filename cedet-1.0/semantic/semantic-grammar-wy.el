@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2002, 2003, 2004 David Ponce
 
-;; Author: b32804 <b32804@b32804-10>
-;; Created: 2011-08-30 14:54:36+0800
+;; Author: Ryan QIAN <b32804@rio>
+;; Created: 2011-09-07 17:39:06+0800
 ;; Keywords: syntax
 ;; X-RCS: $Id$
 

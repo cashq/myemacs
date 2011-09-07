@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010 Eric M. Ludlam
 
-;; Author: b32804 <b32804@b32804-10>
-;; Created: 2011-08-30 14:54:51+0800
+;; Author: Ryan QIAN <b32804@rio>
+;; Created: 2011-09-07 17:40:38+0800
 ;; Keywords: syntax
 ;; X-RCS: $Id$
 
